@@ -1,0 +1,10 @@
+c:\users\michael\documents\visual studio 2012\Projects\projTwitchApp\projTwitchApp\bin\Debug\projTwitchApp.exe.config
+C:\Users\Michael\documents\visual studio 2012\Projects\projTwitchApp\projTwitchApp\bin\Debug\projTwitchApp.exe
+C:\Users\Michael\documents\visual studio 2012\Projects\projTwitchApp\projTwitchApp\bin\Debug\projTwitchApp.pdb
+C:\Users\Michael\documents\visual studio 2012\Projects\projTwitchApp\projTwitchApp\bin\Debug\projTwitchApp.xml
+C:\Users\Michael\documents\visual studio 2012\Projects\projTwitchApp\projTwitchApp\obj\Debug\projTwitchApp.frmMain.resources
+C:\Users\Michael\documents\visual studio 2012\Projects\projTwitchApp\projTwitchApp\obj\Debug\projTwitchApp.Resources.resources
+C:\Users\Michael\documents\visual studio 2012\Projects\projTwitchApp\projTwitchApp\obj\Debug\projTwitchApp.vbproj.GenerateResource.Cache
+C:\Users\Michael\documents\visual studio 2012\Projects\projTwitchApp\projTwitchApp\obj\Debug\projTwitchApp.exe
+C:\Users\Michael\documents\visual studio 2012\Projects\projTwitchApp\projTwitchApp\obj\Debug\projTwitchApp.xml
+C:\Users\Michael\documents\visual studio 2012\Projects\projTwitchApp\projTwitchApp\obj\Debug\projTwitchApp.pdb
